@@ -7,7 +7,7 @@ Mechanical Engineer (BSc, COMSATS) learning Robotics & Industrial Automation.
 - ROS 2 (upcoming)
 
 ## Projects
-- [Line Follower & Obstacle Avoiding Robot](link) – Arduino 4WD robot
+- [Line Follower & Obstacle Avoiding Robot][(link)](https://github.com/engrazafar/arduino-4wd-line-follower-obstacle-robot) – Arduino 4WD robot
 - (more coming)
 
 ## Connect
