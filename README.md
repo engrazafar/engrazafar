@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Raza Farooq 👋
+Mechanical Engineer (BSc, COMSATS) learning Robotics & Industrial Automation.
 
-<!--
-**engrazafar/engrazafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently learning
+- Arduino, embedded C++, Python
+- Control systems (PID)
+- ROS 2 (upcoming)
 
-Here are some ideas to get you started:
+## Projects
+- [Line Follower & Obstacle Avoiding Robot](link) – Arduino 4WD robot
+- (more coming)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+LinkedIn: https://www.linkedin.com/in/raza-farooq-b76180115/
